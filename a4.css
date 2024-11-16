@@ -28,7 +28,9 @@ a:hover{
 }
 .pinsta{transform: translate(130px, 75px);
 }
-
+.ww{
+    filter: drop-shadow(-1px -1px 3px rgba(0, 0, 0, 0.3));
+}
 /* .insta{
     background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
 } */
