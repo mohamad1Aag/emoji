@@ -15,11 +15,11 @@ svg{margin: 10px;}
     align-items: center;
 }
 .textp{
-transform: translate(130px,69px);
+    transform: translate(130px, 74px);
 }
 a{
     text-decoration: none;
-    color: black;
+    color: rgb(0, 0, 0);
         transition: 2s;
     
 }
