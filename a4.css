@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(224, 224, 186);
+}
+svg{margin: 10px;}
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.textp{
+transform: translate(130px,69px);
+}
+a{
+    text-decoration: none;
+    color: black;
+        transition: 2s;
+    
+}
+a:hover{
+    transform: rotateZ(-5deg);
+}
+.pinsta{transform: translate(130px, 75px);
+}
+
+/* .insta{
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+} */
